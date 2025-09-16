@@ -77,5 +77,5 @@ streamlit run mdps_public.py
 ## 🧑‍💻 Author
 
 **Shreya Chaudhary**  
-- [GitHub]-https://github.com/Shreyachodhary 
-- [LinkedIn]-https://www.linkedin.com/in/shreya-chaudhary-a80b49296  
+ GitHub-https://github.com/Shreyachodhary
+ LinkedIn- https://www.linkedin.com/in/shreya-chaudhary-a80b49296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
