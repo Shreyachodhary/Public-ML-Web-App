@@ -55,36 +55,27 @@ streamlit run mdps_public.py
 
 ---
 
-##📊 Technologies Used
+## 📊 Technologies Used
 
-Python
-
-Streamlit
-
-Scikit-learn
-
-Pickle / Joblib (for model serialization)
-
-Basic HTML / CSS (Streamlit built-in)
+- Python  
+- Streamlit  
+- Scikit-learn  
+- Pickle / Joblib (for model serialization)  
+- Basic HTML / CSS (Streamlit built-in)  
 
 ---
 
-##✅ Future Work
+## ✅ Future Work
 
-Add more health datasets / models (e.g. Cancer, Alzheimer’s)
-
-Improve model accuracy via hyperparameter tuning
-
-Add user authentication and data saving functionality
-
-Deploy on a cloud platform (AWS / GCP) for better scalability
+- Add more health datasets / models (e.g. Cancer, Alzheimer’s)  
+- Improve model accuracy via hyperparameter tuning  
+- Add user authentication and data saving functionality  
+- Deploy on a cloud platform (AWS / GCP) for better scalability  
 
 ---
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
 
-Shreya Chaudhary
-
-GitHub-https://github.com/Shreyachodhary
-
-LinkedIn-https://www.linkedin.com/in/shreya-chaudhary-a80b49296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+**Shreya Chaudhary**  
+- [GitHub](https://github.com/Shreyachodhary)  
+- [LinkedIn](https://www.linkedin.com/in/shreya-chaudhary-a80b49296)  
