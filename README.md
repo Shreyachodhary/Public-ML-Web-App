@@ -53,7 +53,7 @@ pip install -r requirements.txt
 # Run the app
 streamlit run mdps_public.py
 
-
+---
 
 📊 Technologies Used
 
@@ -67,7 +67,7 @@ Pickle / Joblib (for model serialization)
 
 Basic HTML / CSS (Streamlit built-in)
 
-
+---
 
 ✅ Future Work
 
@@ -79,7 +79,7 @@ Add user authentication and data saving functionality
 
 Deploy on a cloud platform (AWS / GCP) for better scalability
 
-
+---
 
 🧑‍💻 Author
 
