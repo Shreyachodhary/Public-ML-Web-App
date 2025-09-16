@@ -55,7 +55,7 @@ streamlit run mdps_public.py
 
 ---
 
-📊 Technologies Used
+##📊 Technologies Used
 
 Python
 
@@ -69,7 +69,7 @@ Basic HTML / CSS (Streamlit built-in)
 
 ---
 
-✅ Future Work
+##✅ Future Work
 
 Add more health datasets / models (e.g. Cancer, Alzheimer’s)
 
@@ -81,7 +81,7 @@ Deploy on a cloud platform (AWS / GCP) for better scalability
 
 ---
 
-🧑‍💻 Author
+##🧑‍💻 Author
 
 Shreya Chaudhary
 
