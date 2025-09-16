@@ -55,7 +55,7 @@ streamlit run mdps_public.py
 
 ---
 
-## 📊 Technologies Used
+ 📊 Technologies Used
 
 - Python  
 - Streamlit  
